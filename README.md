@@ -9,10 +9,10 @@ Quick Start
 1. Open the `set_env` file and modify the value of `TSX_INPUT` depending on where you put the input directory.
 
 1. Load the environmental variables and build the RTM library.
-```
-$ source set_env
-$ cd lib && make
-```
+   ```
+   $ source set_env
+   $ cd lib && make
+   ```
 
 1. Run the application.
    Use ```launch_applications.py --list``` to see the whole list of applications.
