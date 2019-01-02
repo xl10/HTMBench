@@ -1,6 +1,0 @@
-[information]
-exe: memcached/build_rtm/bin/memcached
-shown_name: memcached
-launch_script: run-hpc-twemperf.sh
-arguments: ""
-
